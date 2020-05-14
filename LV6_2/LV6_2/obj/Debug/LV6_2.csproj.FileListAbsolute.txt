@@ -1,0 +1,7 @@
+C:\Users\Luka\source\repos\LV6_2\LV6_2\obj\Debug\LV6_2.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\LV6_2\LV6_2\obj\Debug\LV6_2.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\LV6_2\LV6_2\bin\Debug\LV6_2.exe.config
+C:\Users\Luka\source\repos\LV6_2\LV6_2\bin\Debug\LV6_2.exe
+C:\Users\Luka\source\repos\LV6_2\LV6_2\bin\Debug\LV6_2.pdb
+C:\Users\Luka\source\repos\LV6_2\LV6_2\obj\Debug\LV6_2.exe
+C:\Users\Luka\source\repos\LV6_2\LV6_2\obj\Debug\LV6_2.pdb
